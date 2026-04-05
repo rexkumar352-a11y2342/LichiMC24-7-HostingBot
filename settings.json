@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LichiMC.qzz.io",
+    "ip": "LichiMC.aternos.me",
     "port": 62235,
-    "version": "",
+    "version": "1.21.5",
     "try-creative": false
   },
   "position": {
